@@ -1,0 +1,6 @@
+uvicorn
+fastapi
+celery
+celery[redis]
+flower
+httpx
